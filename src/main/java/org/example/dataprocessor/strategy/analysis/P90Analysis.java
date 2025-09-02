@@ -1,6 +1,6 @@
 package org.example.dataprocessor.strategy.analysis;
 
-import org.example.selection.SelectionService;
+import org.example.dataprocessor.util.SelectionService;
 import java.util.List;
 
 public class P90Analysis implements AnalysisStrategy {

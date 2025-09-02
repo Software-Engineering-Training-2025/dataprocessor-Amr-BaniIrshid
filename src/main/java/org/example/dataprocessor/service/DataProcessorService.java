@@ -1,4 +1,4 @@
-package org.example.dataprocessor;
+package org.example.dataprocessor.service;
 
 import org.example.dataprocessor.enums.AnalysisType;
 import org.example.dataprocessor.enums.CleaningType;

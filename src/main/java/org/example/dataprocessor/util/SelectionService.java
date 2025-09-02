@@ -1,4 +1,4 @@
-package org.example.selection;
+package org.example.dataprocessor.util;
 
 import java.util.List;
 import java.util.Random;
